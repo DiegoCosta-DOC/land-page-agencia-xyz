@@ -216,6 +216,10 @@ body {
 
 .footer {
     grid-area: footer;
-    background-color: darkolivegreen;
+    display: flex;
+    background-color: lightgreen;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px 0;
 }
 
